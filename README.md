@@ -2,4 +2,4 @@
 
 
 
-STATUS: Operando com novas rotas para a Europa
+STATUS: Operando com novas rotas para a Europa. [HOTFLIX: Overflow do painel corrigido]
